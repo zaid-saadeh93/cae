@@ -1,0 +1,13 @@
+body{
+  background-image: url("https://degrets.bg/image/cache/catalog/product/517-20-800x600.jpg")
+ 
+}
+
+header{
+  height: 300px ;
+  padding: 10px ;
+  padding-left: 50px;
+  margin-left: 20px;
+  margin-right: 40px;
+}
+
