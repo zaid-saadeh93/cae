@@ -1,48 +1,42 @@
-var age-parseInt(prompt('who old are you'));
 
-/*
-function ageplusten(){
-  var c = age+10;
-
-  return c ;
-}
-*/
-var ageplusten = function(ageInput) {
-  var c = ageInput+10;
-  return c ;
-}
-
-
-var result = parseInt(ageplusten(ag))
-
-var result = parseInt(ageplusten(age))
-
-
-var agebefore = ageplusten () -5
-alert(agebefore);
+var num1 =parseInt(prompt('Enter the first num'))
+var num2 =parseInt( prompt('Enter the second num'))
 
 
 
-
-
-
-
-
-
-
-
-
-var num1 = parseInt (prompt('Enter the first num'))
-var num2 = parseInt (prompt('Enter the second num'))
-
-
-function sum (x,y){
+function sum(x,y){
   return x+y ;
 
 }
 
-var result = sum(1,5);
+function addImage(){
+   return'<img src="var num1 =parseInt(prompt('Enter the first num'))
+var num2 =parseInt( prompt('Enter the second num'))
+
+
+
+function sum(x,y){
+  return x+y ;
+
+}
+
+function addImage(){
+   return'<img src="https://www.mercedes-benz-mena.com/ar/passengercars/mercedes-benz-cars/models/gle/coupe-c167/explore/highlights/_jcr_content/contentgallerycontainer/par/contentgallery/par/contentgallerytile_58586423/image.MQ6.8.20191119092227.jpeg" alt="Mercedes" width="300" height="200" title="Mercedes-title">'
+}
+
+document.write(addImage());
+
+
+var result = sum(5,5);
 var result2 = sum(num1,num2);
 
+console.log(result);" alt="Mercedes" width="300" height="200" title="Mercedes-title">'
+}
 
-console.log (result);
+document.write(addImage());
+
+
+var result = sum(5,5);
+var result2 = sum(num1,num2);
+
+console.log(result);
