@@ -12,7 +12,11 @@ var ageplusten = function(ageInput) {
   return c ;
 }
 
+<<<<<<< HEAD
 var result = parseInt(ageplusten(ag))
+=======
+var result = parseInt(ageplusten(age))
+>>>>>>> 7806a899fa6ead7641199f1924fcbbd19a88c72e
 
 var agebefore = ageplusten () -5
 alert(agebefore);
