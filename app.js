@@ -2,11 +2,12 @@
 var name = prompt("what is your name")
 
 alert("hey, wlecome to my website " + name )
- 
- function userbestcar (){
+
+ var bestcar = prompt("what is you fav car? , please choose one of these ; mustang, BMW,mercedes")
+
+ function userbestcar (bestcar){
 
  
-var bestcar = prompt("what is you fav car? , please choose one of these ; mustang, BMW,mercedes")
 
 while(bestcar != "mustang" && bestcar != "BMW" && bestcar != "mercedes"){
 
